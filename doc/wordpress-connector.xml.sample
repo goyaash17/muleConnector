@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(wordpress:greet) -->
+    <wordpress:greet config-ref="" friend="#[map-payload:friend]" />
+<!-- END_INCLUDE(wordpress:greet) -->
